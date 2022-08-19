@@ -13,15 +13,15 @@
 </p>
 
 ### Overview:
-```js
+```py
 const sheshank = {
     pronouns: "He" | "Him",
     code: ["Python", "C", "C++", "JavaScript", "MATLAB"],
-    askMeAbout: ["web dev", "tech", "app dev", "gaming"],
+    askMeAbout: ["Web Development", "Machine Learning", "Embedded Electronics", "Technology"],
     technologies: {
         frontEnd: {
-            js: ["Vue", "React"],
-            css: ["materialize", "SASS", "bootstrap"]
+            js: ["React"],
+            css: ["Bootstrap 5", "Tailwind CSS", "bootstrap"]
         },
         backEnd: {
             js: ["node", "express"]
